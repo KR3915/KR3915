@@ -4,7 +4,7 @@
 
 <h1><img src="azazel.gif" alt="Azazel Dancing" width="30" style="vertical-align: middle;"> About Me:</h1>
 Highschool student with ambitions
-debian user btw
+🐧 debian user btw
 
 <h1><img src="keeper.gif" alt="Keeper Dancing" width="30" style="vertical-align: middle;"> Socials:</h1>
 
