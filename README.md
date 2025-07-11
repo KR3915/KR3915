@@ -3,8 +3,7 @@
 </p>
 
 <h1><img src="azazel.gif" alt="Azazel Dancing" width="30" style="vertical-align: middle;"> About Me:</h1>
-<p1>Highschool student with ambitions</p1>
-<p>🐧 linux user btw</p>
+<p1>i use **arch** btw</p1>
 
 <h1><img src="keeper.gif" alt="Keeper Dancing" width="30" style="vertical-align: middle;"> Socials:</h1>
 
