@@ -3,7 +3,7 @@
 </p>
 
 <h1><img src="azazel.gif" alt="Azazel Dancing" width="30" style="vertical-align: middle;"> About Me:</h1>
-<p1>highschool student with passion for computers not much else to say</p1>
+<p1>i hate php</p1>
 
 <h1><img src="keeper.gif" alt="Keeper Dancing" width="30" style="vertical-align: middle;"> Socials:</h1>
 
