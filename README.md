@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pa1.aminoapps.com/6055/abe302331d5c6158fb3c38f28fd2f434d4e0879a_hq.gif" width="400">
+  <img src="https://i.giphy.com/D2mfDBzZPivKBHY1wM.webp" width="400">
 </p>
 
 <h1><img src="azazel.gif" alt="Azazel Dancing" width="30" style="vertical-align: middle;"> About Me:</h1>
