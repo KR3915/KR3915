@@ -8,7 +8,6 @@
 <h1><img src="keeper.gif" alt="Keeper Dancing" width="30" style="vertical-align: middle;"> Socials:</h1>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@ulaviceditestalozplnahrdlakricel) <br>
-ondrej.brdek@gmail.com
 
 ---
 
