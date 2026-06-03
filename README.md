@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.giphy.com/D2mfDBzZPivKBHY1wM.webp" width="400">
-</p>
+
 
 <h1><img src="azazel.gif" alt="Azazel Dancing" width="30" style="vertical-align: middle;"> About Me:</h1>
 <p1>i hate php</p1>
